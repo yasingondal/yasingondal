@@ -135,7 +135,7 @@ class SoftwareEngineer {
 
 # 💼 Professional Experience
 
-## 🚀 Projects Lead — THEREDHATS
+## 🚀 Senior Software Engineer — THEREDHATS
 ### 📍 Islamabad, Pakistan | May 2025 – Present
 
 - Leading cross-functional development teams
